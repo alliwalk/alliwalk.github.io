@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Adding icon font to Jekyll"
 date:   2016-01-24 
 categories: jekyll type
