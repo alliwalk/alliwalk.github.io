@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "alliwalk, launches site on MLK, Jr Day"
+title: "Jekyll blog launches on MLK, Jr Day"
 date: 2016-01-18
 ---
 
